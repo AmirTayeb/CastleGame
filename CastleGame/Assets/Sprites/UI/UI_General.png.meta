@@ -1,0 +1,107 @@
+fileFormatVersion: 2
+guid: 0202ea63b23cff849ac4b86db01354ac
+timeCreated: 1469795038
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: UI_General_0
+    21300002: UI_General_1
+    21300004: UI_General_2
+    21300006: UI_General_3
+    21300008: UI_General_4
+    21300010: UI_General_5
+    21300012: UI_General_6
+    21300014: UI_General_7
+    21300016: UI_General_8
+    21300018: UI_General_9
+    21300020: UI_General_10
+    21300022: UI_General_11
+    21300024: UI_General_12
+    21300026: UI_General_13
+    21300028: UI_General_14
+    21300030: UI_General_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 50, y: 50, z: 50, w: 50}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: UI_General_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 68, y: 78, z: 70, w: 66}
+      outline:
+      - - {x: 126, y: -106}
+        - {x: 128, y: -101}
+        - {x: 128, y: 101}
+        - {x: 127, y: 104}
+        - {x: 122, y: 112}
+        - {x: 112, y: 122}
+        - {x: 106, y: 126}
+        - {x: 101, y: 128}
+        - {x: -101, y: 128}
+        - {x: -104, y: 127}
+        - {x: -112, y: 122}
+        - {x: -122, y: 112}
+        - {x: -126, y: 106}
+        - {x: -128, y: 101}
+        - {x: -128, y: -101}
+        - {x: -127, y: -104}
+        - {x: -123, y: -113}
+        - {x: -107, y: -127}
+        - {x: -102, y: -128}
+        - {x: 101, y: -128}
+        - {x: 104, y: -127}
+        - {x: 112, y: -122}
+        - {x: 122, y: -112}
+    outline: []
+  spritePackingTag: UI_General
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

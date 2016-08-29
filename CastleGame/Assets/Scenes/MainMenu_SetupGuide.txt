@@ -1,0 +1,6 @@
+Step by step
+1-Go to MainMenu (scene) >> ScriptHolder (GameObject) >> UI_System (Script) >>
+First_lvl_name (String Variable) and change it to name of the scene u want to
+load when click play
+2- change the UI design + BG Track + Button SFX
+3- and  you setup to go
